@@ -15,4 +15,3 @@ More agent-to-system wiring. Occasional patches in the coding tools I actually u
 ## Around here
 
 MCP · coding agents · automation · TypeScript · Windows
-
