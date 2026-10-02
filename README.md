@@ -8,10 +8,14 @@ Mostly MCP, local automation, and experiments that have to work on a real machin
 
 Not screenshots. Not OCR. Not mouse simulation. It reads RGSS3 objects and feeds actions into the game's own input loop, so a text-only model is enough. Pathfinding, dialogue, menus, battle, and memory were calibrated on a live install.
 
+**[tavily-exa-router](https://github.com/yk4464/tavily-exa-router)** — a search-routing skill for coding agents: which of Tavily and Exa to use, per query type, and with which parameters.
+
+Backed by measurements, not preference: the two engines' results overlap on only 22% of domains, so the choice changes which sources you get. Includes mode/latency data, cost notes, and known extraction pitfalls.
+
 ## Currently
 
 More agent-to-system wiring. Occasional patches in the coding tools I actually use.
 
 ## Around here
 
-MCP · coding agents · automation · TypeScript · Windows
+MCP · coding agents · automation · search routing · TypeScript · Python · Windows
